@@ -1,0 +1,2 @@
+# ptichkibot
+our ptichkibot repository
